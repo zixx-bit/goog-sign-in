@@ -28,7 +28,7 @@
               www.bumihouse.site
             </div>
 
-            <form class="form-signin" action="gooogle_sign_in.php" method="post">
+            <form class="form-signin" action="google_sign_in.php" method="post">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Email" required autofocus name="" value="">
 
@@ -96,7 +96,7 @@
         })
         .done(function(data){
           console.log(data);
-          window.location.href = 'home.php';
+          window.location.href = 'login_pro.php';
         }).fail(function(){
           alert("Posting failed.")
         });
