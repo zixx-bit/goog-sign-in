@@ -50,7 +50,7 @@
               <span class="or">OR</span>
                   <div class="row">
                     <div class="col-md-12">
-                    <center><div class="g-signin2" data-onsuccess="onSignIn">
+                    <center><div class="g-signin2 btn-block" data-onsuccess="onSignIn">
                     </div></center>
 
                     </div>
