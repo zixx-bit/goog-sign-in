@@ -28,7 +28,7 @@
               www.bumihouse.site
             </div>
 
-            <form class="form-signin" action="index.html" method="post">
+            <form class="form-signin" action="login_pro.php" method="post">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Email" required autofocus name="" value="">
 
