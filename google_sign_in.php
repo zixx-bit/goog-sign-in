@@ -11,7 +11,7 @@
     <head>
     	<title>PHP and MySQL - Login with Google Account Example</title>
     	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    	<link href="mycss.css" rel="stylesheet">
+    	<link href="main.css" rel="stylesheet">
     	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
     	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     	<script src="https://apis.google.com/js/platform.js" async defer></script>
