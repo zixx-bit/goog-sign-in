@@ -9,7 +9,7 @@
 <html lang="en" dir="ltr">
 
     <head>
-    	<title>PHP and MySQL - Login with Google Account Example</title>
+    	<title>Login with Google Account</title>
     	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     	<link href="mycss.css" rel="stylesheet">
     	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
@@ -28,7 +28,7 @@
               www.bumihouse.site
             </div>
 
-            <form class="form-signin" action="index.html" method="post">
+            <form class="form-signin" action="login_pro.php" method="post">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Email" required autofocus name="" value="">
 
