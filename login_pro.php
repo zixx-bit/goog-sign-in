@@ -1,6 +1,9 @@
 
 <?php
-  session_start();
+
+ require_once $_SERVER['DOCUMENT_ROOT']. '/bumihouse/core/init.php';
+ require_once $_SERVER['DOCUMENT_ROOT'].'/bumihouse/helpers/helpers.php';
+  // session_start();
   $_SESSION["id"] = $_POST["id"];
   $_SESSION["name"] = $_POST["name"];
   $_SESSION["email"] =$_POST["email"];
